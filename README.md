@@ -4,7 +4,7 @@
 
 I spend most of my time building Android apps as a mobile developer. Currently, I'm working at a blockchain company in Singapore. I'm really into new tech and how it can solve everyday problems. Plus, I'm always on the lookout for tips to boost productivity and get things done more efficiently.
 
-My socials: [**`LinkedIn`**](https://example.com](https://www.linkedin.com/in/ddthach/)) | [**`Medium`**](https://example.com](https://medium.com/@thach-do)) | [**`Substack`**](https://substack.com/@rockiedo).
+My socials: [**`LinkedIn`**](https://www.linkedin.com/in/ddthach/) | [**`Medium`**](https://medium.com/@thach-do) | [**`Substack`**](https://substack.com/@rockiedo).
 
 ---
 
