@@ -10,9 +10,3 @@
 #
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ts,react,androidstudio,flutter)](https://skillicons.dev)
-
-#
-
-### 📈 Stats
-
-![Thach's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockiedo&show_icons=true&theme=gruvbox)
