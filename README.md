@@ -1,24 +1,15 @@
 # 🚀 Thach Do
 
-**`Mobile Developer`**
+**`Software Engineer`**
 
-I spend most of my time building Android apps as a mobile developer. Currently, I'm working at a blockchain company in Singapore. I'm really into new tech and how it can solve everyday problems. Plus, I'm always on the lookout for tips to boost productivity and get things done more efficiently.
+- Currently based in Australia 🦘.
+- Spend most of my time building mobile apps 📱.
+- Expanding my skill set to fullstack development with strong support from my AI agents 🤖.
+- My socials: [**`LinkedIn`**](https://www.linkedin.com/in/ddthach/) | [**`Medium`**](https://medium.com/@thach-do) | [**`Substack`**](https://substack.com/@rockiedo).
 
-My socials: [**`LinkedIn`**](https://www.linkedin.com/in/ddthach/) | [**`Medium`**](https://medium.com/@thach-do) | [**`Substack`**](https://substack.com/@rockiedo).
+#
 
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,react,androidstudio,flutter)](https://skillicons.dev)
 
 #
 
